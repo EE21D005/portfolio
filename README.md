@@ -1,10 +1,14 @@
 # vinayaknageli.in
 
-Personal portfolio site for Vinayak N. — Senior Scientist, Center for AI and
-Robotics (CAIR), Bangalore.
+Personal site for Vinayak N. — Senior Scientist, Center for AI and Robotics
+(CAIR), Bangalore. Six pages: Home, About, Research, Publications,
+Art & Spirituality, Contact.
 
 Plain HTML/CSS/JS, hosted on GitHub Pages with a custom domain
 (`vinayaknageli.in`) pointed here via GoDaddy DNS.
+
+Drop the hero background photo at `assets/img/hero-bg.jpg` — the home page
+hero references it directly (falls back to a plain gradient if absent).
 
 ## Local preview
 
